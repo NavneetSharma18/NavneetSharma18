@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Navneet Sharma — PHP | WordPress | Next Js Developer
+I'm a passionate full-stack web developer with a strong focus on PHP, WordPress, and modern JavaScript frameworks like Next Js. I love building fast, scalable, and user-friendly web applications and CMS solutions.
 
-<!--
-**NavneetSharma18/NavneetSharma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 What I Do
+✨ Custom WordPress Development: Themes, plugins, REST API integrations
 
-Here are some ideas to get you started:
+⚙️ PHP Backend Development: Clean, secure, and maintainable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Next.js Applications: SSR, static generation, API routes, and more
+
+🌐 Full Stack Projects: From database to front-end UI/UX
+
+🔐 Authentication & Security: JWT, OAuth, OTP logins
+
+🛠️ Tech Stack
+Languages: PHP, JavaScript (ES6+), TypeScript
+
+Frameworks: WordPress, Next.js, React, Express
+
+Databases: MySQL, Prisma ORM, Firebase
+
+Tools: Git, PM2, Docker, VS Code, Postman
+
+Others: REST APIs, JWT Auth, SEO optimization, Web Performance
+
+📫 Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/mr-navneet-sharma
+
+Email: 05navneetsharma@gmail.com
