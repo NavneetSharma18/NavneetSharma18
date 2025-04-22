@@ -15,8 +15,8 @@ I'm a passionate **full-stack web developer** with a strong focus on **PHP**, **
 
 ### 🛠️ **Tech Stack**
 - **Languages**: PHP, JavaScript (ES6+), TypeScript  
-- **Frameworks**: WordPress, Next.js, React, Express  
-- **Databases**: MySQL, Prisma ORM, Firebase  
+- **Frameworks**:  Laravel, YII2, CI, WordPress, Next.js, React, Express  
+- **Databases**: MySQL, Prisma ORM, Firebase , Mongo DB
 - **Tools**: Git, PM2, Docker, VS Code, Postman  
 - **Others**: REST APIs, JWT Auth, SEO optimization, Web Performance  
 
